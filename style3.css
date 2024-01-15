@@ -39,6 +39,7 @@ h1 {
 
 .box:hover {
     background-color: hsl(204.66deg 22.81% 64.83%);
+    cursor: pointer;
 }
 
 #restartButton {
@@ -57,4 +58,5 @@ h1 {
 #restartButton:hover {
     background-color: #396a7d;
     color: #FFFFFF;
+    cursor: pointer;
 }
